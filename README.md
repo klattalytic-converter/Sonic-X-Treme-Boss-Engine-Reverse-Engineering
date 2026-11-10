@@ -7,7 +7,7 @@ A very amateur attempt at decompiling/restoring Christina Coffin's "Boss Engine"
 
 
 (This is likely a far more stripped down version of the engine than was available to the team before Sonic X-Treme's cancellation, as the only leaked build using this engine is the "718" build, also known as the "Jade Gully Demo" build. 
-Do not expect much from this. This is a passion project done by a broke 20 year old college student. I barely know C and don't use AI to write any of my code, so progress will be slow!)
+Do not expect much from this. This is a passion project done by a broke 20 year old college student. I don't use AI to write my code, and the most use it will ever get is as a tool that is very closely human audited, so progress will be slow!)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="704" height="448" alt="image" src="https://github.com/user-attachments/assets/54fadd5a-5116-45d6-80e1-25bbe28b8a27" />
